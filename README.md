@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @Anurag-Techie
 - 👀 I’m interested in AR/VR technologies and development
 - 🌱 I’m currently learning cyber security, blockchain, fullstack, AR/VR.
-- 📫 How to reach me : anuragkhandelwal777@gmail.com
+- 📫 How to reach me :
+- mail: anuragkhandelwal777@gmail.com
+- Linkedin: https://www.linkedin.com/in/anurag-khandelwal-at-sastra/
